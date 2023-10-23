@@ -92,3 +92,9 @@ header {
   ::-webkit-scrollbar-thumb {
     background: #FF0000; /* Cor da barra de rolagem */
   }
+
+  .insta {
+    text-align: right;
+    height: 5px;
+    width: 5px;
+  }
