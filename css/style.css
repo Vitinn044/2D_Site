@@ -93,7 +93,12 @@ header {
     background: #FF0000; /* Cor da barra de rolagem */
   }
 
-.icons {
+.instai {
+  width: 5%;
+  height: 5%;
+}
+
+.footer icons instaai {
   width: 5%;
   height: 5%;
 }
