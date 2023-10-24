@@ -97,6 +97,11 @@ header {
   text-align: center;
 }
 
+.ig {
+  height: 2%;
+  width: 2%;
+}
+
 .footer p {
   margin: 0;
 }

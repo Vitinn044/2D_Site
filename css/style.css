@@ -76,6 +76,11 @@ header {
   margin: 0;
 }
 
+.ig {
+  height: 2%;
+  width: 2%;
+}
+
 .observ {
  text-align: center;  
  font-size: 25px;
